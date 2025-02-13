@@ -25,5 +25,18 @@ conda activate dnd
 
 ## How to Run the Code
 ### Data Preparation
-1. Download WSIs from TCGA
+1. Download Camelyon16, TCGA NSCLC (LUAD & LUSC), and BRACS WSIs.
 2. Use the CLAM framework to extract features at 10x resolution
+3. Organize the extracted .pt feature files as follows:
+
+```bash
+ROOT_DIR/
+    └──${FEATURE_EXTRACTOR_NAME}/
+            └──${DATASET_NAME}_features/
+                    ├── slide_1.pt
+                    ├── slide_2.pt
+                    └── ...
+```
+
+## Acknowledgements
+Many thanks to the authors of  [CLAM](https://github.com/mahmoodlab/CLAM) and [MambaMIL](https://github.com/isyangshu/MambaMIL) for making their codebase open-source and accessible to other researchers.
