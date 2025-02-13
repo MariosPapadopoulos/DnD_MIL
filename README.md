@@ -16,7 +16,6 @@ conda activate dnd
 
 - `torch` 2.0.1
 - `torchvision` 0.15.2
-- `torchaudio` 2.0.2
 - `einops` 0.8.0 
 - `k-means-constrained` 0.7.3
 - `scikit-learn` 1.3.2
