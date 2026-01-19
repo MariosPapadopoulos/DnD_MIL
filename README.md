@@ -1,5 +1,8 @@
 # Divide-and-Distill MIL : Expert Clustering and Knowledge Transfer for Whole Slide Image Classification
 
+
+## 📢 **ACCEPTED AT IEEE ISBI 2026** 📢
+
 ## Abstract
 Multiple Instance Learning (MIL) is an effective paradigm for Whole Slide Image (WSI) classification. Despite its success, existing MIL methods often suffer from limited learning capacity and struggle to fully exploit the rich information within WSIs, leading to performance plateaus. To overcome these challenges and improve the performance of any existing MIL method without additional overhead at inference, we propose the Divide-and-Distill (D&D) framework, which augments MIL methods through a two-stage process: feature space partitioning via clustering and knowledge transfer through distillation. By training specialized experts on localized clusters of the feature space and distilling their knowledge into a single final model, D&D enables both global and localized feature learning, pushing the boundaries of MIL methods. 
 
