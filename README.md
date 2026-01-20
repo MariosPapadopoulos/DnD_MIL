@@ -42,3 +42,26 @@ ROOT_DIR/
 
 ## Acknowledgements
 Many thanks to the authors of  [CLAM](https://github.com/mahmoodlab/CLAM) and [MambaMIL](https://github.com/isyangshu/MambaMIL) for making their codebase open-source and accessible to other researchers.
+
+## License & Citation
+If you would like to use this work, please cite:
+
+@INPROCEEDINGS{Papadopoulos_isbi2026,
+  author={Chen, Minheng and Zhang, Zhirun},
+  booktitle={2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)}, 
+  title={Expert Clustering and Knowledge Transfer for Whole Slide Image Classification}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={},
+ }
+
+ Our work was also presented in the MedEurIPS workshop at EurIPS 2025 in Copenhagen:
+ @inproceedings{papadopoulos2025mitigating,
+title={Mitigating Representation Bottlenecks in Multiple Instance Learning},
+author={Kleanthis Marios Papadopoulos and Nikolaos Giakoumoglou and Andreas Floros and Pier Luigi Dragotti and Tania Stathaki},
+booktitle={Submitted to Medical Imaging meets EurIPS: MedEurIPS 2025},
+year={2025},
+url={https://openreview.net/forum?id=nywAT7N8Do}
+}
+
