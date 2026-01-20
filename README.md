@@ -47,13 +47,14 @@ Many thanks to the authors of  [CLAM](https://github.com/mahmoodlab/CLAM) and [M
 If you would like to use this work, please cite:
 ```
 @INPROCEEDINGS{Papadopoulos_isbi2026,
-  author={Chen, Minheng and Zhang, Zhirun},
+  author={Kleanthis Marios Papadopoulos and Nikolaos Giakoumoglou and Andreas Floros and Pier Luigi Dragotti and Tania Stathaki},
   booktitle={2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)}, 
   title={Expert Clustering and Knowledge Transfer for Whole Slide Image Classification}, 
   year={2026},
   volume={},
   number={},
   pages={},
+  doi={}
  }
 ```
 
